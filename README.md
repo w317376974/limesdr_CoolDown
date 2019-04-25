@@ -5,4 +5,4 @@ LimeSDR with Cool
 有条件的建议使用3mm 铝板 自行加沉头螺丝进行构造。
 
 
-辅助材料主要为 AB胶、IPEX转SAM、海绵
+辅助材料主要为 AB胶、IPEX转SAM、海绵、7010风扇
